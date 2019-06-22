@@ -2,7 +2,7 @@
 
 In this project, we try to train a GAN for face generation from mnist and celebA dataset.This project was done as part of Neural Network Foundations Nanodegree program at Udacity. 
 
-The Jupyter notebook with final seq2seq model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Face-Generation/blob/master/face_generation.ipynb).
+The Jupyter notebook with final GAN model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Face-Generation/blob/master/face_generation.ipynb).
 
 The resources that helped me are:
 
